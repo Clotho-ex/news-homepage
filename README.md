@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/news-homepage-solution-htVUJDqJ8H)
-- Live Site URL: [Add live site URL here](https://clotho-ex.github.io/news-homepage/)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/news-homepage-solution-htVUJDqJ8H)
+- Live Site URL: [Live Site](https://clotho-ex.github.io/news-homepage/)
 
 ## My process
 
